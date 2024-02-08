@@ -1,0 +1,15 @@
+C:\Gitlearn\console_app\ConsoleApp\bin\Debug\net7.0\ConsoleApp.exe
+C:\Gitlearn\console_app\ConsoleApp\bin\Debug\net7.0\ConsoleApp.deps.json
+C:\Gitlearn\console_app\ConsoleApp\bin\Debug\net7.0\ConsoleApp.runtimeconfig.json
+C:\Gitlearn\console_app\ConsoleApp\bin\Debug\net7.0\ConsoleApp.dll
+C:\Gitlearn\console_app\ConsoleApp\bin\Debug\net7.0\ConsoleApp.pdb
+C:\Gitlearn\console_app\ConsoleApp\obj\Debug\net7.0\ConsoleApp.csproj.AssemblyReference.cache
+C:\Gitlearn\console_app\ConsoleApp\obj\Debug\net7.0\ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Gitlearn\console_app\ConsoleApp\obj\Debug\net7.0\ConsoleApp.AssemblyInfoInputs.cache
+C:\Gitlearn\console_app\ConsoleApp\obj\Debug\net7.0\ConsoleApp.AssemblyInfo.cs
+C:\Gitlearn\console_app\ConsoleApp\obj\Debug\net7.0\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Gitlearn\console_app\ConsoleApp\obj\Debug\net7.0\ConsoleApp.dll
+C:\Gitlearn\console_app\ConsoleApp\obj\Debug\net7.0\refint\ConsoleApp.dll
+C:\Gitlearn\console_app\ConsoleApp\obj\Debug\net7.0\ConsoleApp.pdb
+C:\Gitlearn\console_app\ConsoleApp\obj\Debug\net7.0\ConsoleApp.genruntimeconfig.cache
+C:\Gitlearn\console_app\ConsoleApp\obj\Debug\net7.0\ref\ConsoleApp.dll
